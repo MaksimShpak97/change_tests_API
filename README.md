@@ -8,9 +8,9 @@
 
 - [Реализованные проверки](#boom-Реализованные-проверки)
 - [Технологии](#classical_building-Технологии)
-- [Сборка в Jenkins](#man_cook-Jenkins-job)
+- [Сборка в Jenkins](#man_cook-Сборка-в-Jenkins)
 - [Allure отчет](#bar_chart-Allure-отчет)
-- [Интеграция с Allure TestOps](#И-нтеграция-с-Allure-TestOps)
+- [Интеграция с Allure TestOps](#Интеграция-с-Allure-TestOps)
 - [Уведомление в Telegram при помощи бота](#-Уведомление-в-Telegram-при-помощи-бота)
 
 ## :boom: Реализованные проверки
@@ -48,7 +48,7 @@
 <a><img src="images/allure_report.png" alt="Allure"/></a>
 </p>
 
-## <img src="images/allure_testOps_logo.svg" width="30" height="30"  alt="Allure"/></a>Интеграция с <a target="_blank" href="https://allure.autotests.cloud/launch/16339">Allure TestOps</a>
+## <img src="images/allure_testOps_logo.svg" width="30" height="30"  alt="Allure"/></a> Интеграция с <a target="_blank" href="https://allure.autotests.cloud/launch/16339">Allure TestOps</a>
 
 <p align="center">
 <img title="Allure TestOps Dashboard" src="images/allure_testOps.png">
