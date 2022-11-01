@@ -1,0 +1,16 @@
+{
+  "base": {
+    "project": "reqres-api-tests",
+    "environment": "stage",
+    "comment": "Test telegram report",
+    "reportLink": "",
+    "language": "en",
+    "allureFolder": "build/reports/allure-report/allureReport",
+    "enableChart": true
+  },
+  "telegram": {
+    "token": "5525783958:AAEj6CxS9SAyshSBpDamqQobfb0ThNl2_7U",
+    "chat": "788646272",
+    "replyTo": ""
+  }
+}
