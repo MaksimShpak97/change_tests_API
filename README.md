@@ -29,7 +29,7 @@
 <img width="6%" title="Java" src="images/Java.svg">
 <img width="6%" title="Allure Report" src="images/allure_logo.svg">
 <img width="6%" title="Gradle" src="images/Gradle.svg">
-<img width="6%" title="JUnit5" src="images/Junit5.svg">
+<img width="6%" title="JUnit5" src="images/JUnit5.svg">
 <img width="6%" title="GitHub" src="images/GitHub.svg">
 <img width="6%" title="Jenkins" src="images/Jenkins.svg">
 <img width="6%" title="REST Assured" src="images/Rest-Assured.svg">
@@ -38,7 +38,7 @@
 ## :man_cook: Сборка в Jenkins
 <img src="images/Jenkins.svg" width="30" height="30"  alt="Jenkins"/></a>  <a target="_blank" href="https://jenkins.autotests.cloud/job/reqres-API-tests/">Jenkins job</a>
 <p align="center">
-<a><img src="images/Jenkins_job.png" alt="Jenkins"/></a>
+<a><img src="images/jenkins_job.png" alt="Jenkins"/></a>
 </p>
 
 
