@@ -10,10 +10,8 @@
 - [Технологии](#classical_building-Технологии)
 - [Сборка в Jenkins](#man_cook-Jenkins-job)
 - [Allure отчет](#bar_chart-Allure-отчет)
-- [Интеграция с Allure TestOps](#bar_chart-Интеграция с Allure TestOps)
-- [Уведомление в Telegram при помощи бота
-  ](#bar_chart-Уведомление в Telegram при помощи бота
-  )
+- [Интеграция с Allure TestOps](#И-нтеграция-с-Allure-TestOps)
+- [Уведомление в Telegram при помощи бота](#-Уведомление-в-Telegram-при-помощи-бота)
 
 ## :boom: Реализованные проверки
 
