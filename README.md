@@ -40,7 +40,7 @@
 ## :man_cook: Сборка в Jenkins
 <img src="images/Jenkins.svg" width="30" height="30"  alt="Jenkins"/></a>  <a target="_blank" href="https://jenkins.autotests.cloud/job/reqres-API-tests/">Jenkins job</a>
 <p align="center">
-<a href="https://jenkins.autotests.cloud/job/011-maslogirl-FinalProject-API/"><img src="images/Jenkins_job.png" alt="Jenkins"/></a>
+<a><img src="images/Jenkins_job.png" alt="Jenkins"/></a>
 </p>
 
 
